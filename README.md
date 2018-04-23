@@ -2,4 +2,4 @@
 
 Our developed PSC framework is a workflow which can simultaneously characterize a large number of white matter bundles within and across different subjects for group analysis. Given the DWI and T1 images it has three major components: (i) reliable construction of the structural connectome for the whole brain, including a robust tractography algorithm and streamline post-processing techniques, such as dilation of gray matter regions, streamline cutting, and outlier streamline removal are applied to improve the robustness of the extracted structural connectomes; (ii) low-dimensional representation of streamlines in each connection, including a shape analysis framework to separate the variation of streamlines in each cell of the streamlines, and an encoding and decoding procedure to efﬁciently compress the streamlines; (iii) multi-level connectome analysis, including the groupwise connectome analysis at three different levels, the streamline level, the weighted network level; and the binary network level.
 
-Please refer to the PSC_readme.pdf for details.
+Please refer to the "PSC_readme.pdf" for details.
